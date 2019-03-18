@@ -1,6 +1,6 @@
 # Think Python 2e
 
-I download epub format from [here](https://github.com/gregers666/thinkpython2-epub/blob/master/thinkpython2.epub), then delete and reformat it with calibre and convert it to azw3 format.
+I download epub format from [here](https://github.com/gregers666/thinkpython2-epub/blob/master/thinkpython2.epub), then reformat it with calibre and convert it to azw3 format.
 
 
 
